@@ -1,0 +1,6 @@
+report.log
+run.bat
+test.py
+/SpamEmailApp/_pycache_
+/SpamEmail/_pycache_
+/SpamEmailApp/migrations/_pycache_
