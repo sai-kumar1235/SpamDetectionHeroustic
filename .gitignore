@@ -4,3 +4,6 @@ test.py
 /SpamEmailApp/_pycache_
 /SpamEmail/_pycache_
 /SpamEmailApp/migrations/_pycache_
+
+# Exclude large model files
+model/*.npy
